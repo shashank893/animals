@@ -6,3 +6,6 @@ Hachiko
 
 Cats
 Dogs
+
+Eat that Frog
+Eat the Problem
